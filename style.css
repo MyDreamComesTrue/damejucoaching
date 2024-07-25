@@ -1,0 +1,62 @@
+.navbar{
+    position: fixed;
+    width: 100%;
+    z-index: 3;
+}
+
+
+.herosection{
+    padding-top: 150px;
+    padding-bottom: 100px;
+}
+
+.navbar-brand{
+    font-weight: 600;
+}
+
+.deux{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.di{
+    margin-bottom: 40px;
+}
+
+
+/*body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}*/
+
+.bgc{
+    background-color: #A3FFD6;
+}
+background-image {
+    /* The image used */
+    background-image: url('images/2149454903.jpg');
+  
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    /* Optional: Add some padding and text styles */
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+
+.sec{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+img, figure{
+    border-radius: 6px;
+}
